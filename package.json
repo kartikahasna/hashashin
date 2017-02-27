@@ -1,0 +1,22 @@
+{
+  "name": "hashashin",
+  "version": "0.1.0",
+  "description": "A small library for manipulating query string hash parameters",
+  "main": "hashashin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camelofcode/hashashin.git"
+  },
+  "keywords": [
+    "window.location.hash"
+  ],
+  "author": "Chris Clayton <n0652640@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camelofcode/hashashin/issues"
+  },
+  "homepage": "https://github.com/camelofcode/hashashin#readme"
+}
